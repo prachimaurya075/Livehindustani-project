@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "City celebrates annual arts festival with a record turnout",
+    "summary": "Thousands attended the city's annual arts festival, featuring local artists and street performances.",
+    "content": "Full article content: The annual arts festival returned this year with expanded programming...",
+    "image": "/images/festival-celebration.svg",
+    "publishedAt": "2025-11-20T10:30:00.000Z",
+    "author": "Priya Sharma",
+    "category": "Local"
+  },
+  {
+    "id": "2",
+    "title": "Economic update: Markets show cautious optimism",
+    "summary": "Markets reacted positively to new economic data, with analysts forecasting moderate growth.",
+    "content": "Full article content: Stock markets opened higher after the release of the quarterly data...",
+    "image": "/images/market.svg",
+    "publishedAt": "2025-11-21T08:00:00.000Z",
+    "author": "Arjun Rao",
+    "category": "Business"
+  },
+  {
+    "id": "3",
+    "title": "New metro line to improve daily commutes",
+    "summary": "The transport department unveiled plans for a new metro line connecting suburbs to the city center.",
+    "content": "Full article content: Officials say the new line will cut commute times by up to 30%...",
+    "image": "/images/metro.svg",
+    "publishedAt": "2025-11-22T12:15:00.000Z",
+    "author": "Neha Verma",
+    "category": "City"
+  },
+  {
+    "id": "4",
+    "title": "Health: Tips to boost immunity this winter",
+    "summary": "Local doctors recommend simple lifestyle changes to strengthen immunity during colder months.",
+    "content": "Full article content: As winter approaches, healthcare professionals recommend...",
+    "image": "/images/topic-health.svg",
+    "publishedAt": "2025-11-18T09:00:00.000Z",
+    "author": "Dr. Ravi Gupta",
+    "category": "Health"
+  },
+  {
+    "id": "5",
+    "title": "Sports roundup: Local team advances to semifinals",
+    "summary": "An exciting win sent the local team to the semifinals after a close match.",
+    "content": "Full article content: In a thrilling match last night the team secured their place...",
+    "image": "/images/category-sports.svg",
+    "publishedAt": "2025-11-19T21:30:00.000Z",
+    "author": "Karan Singh",
+    "category": "Sports"
+  },
+  {
+    "id": "6",
+    "title": "Education: Schools introduce new digital learning tools",
+    "summary": "Several schools announced the rollout of new tablets and digital platforms for students.",
+    "content": "Full article content: Education boards are piloting digital classrooms to enhance learning...",
+    "image": "/images/topic-tech.svg",
+    "publishedAt": "2025-11-17T07:45:00.000Z",
+    "author": "Meera Joshi",
+    "category": "Education"
+  },
+  {
+    "id": "7",
+    "title": "Weather: Heavy rains expected in northern districts",
+    "summary": "The meteorological department warns of heavy rainfall and potential flooding in low-lying areas.",
+    "content": "Full article content: Citizens are advised to take precautions as the weather system moves in...",
+    "image": "/images/weather.svg",
+    "publishedAt": "2025-11-16T06:00:00.000Z",
+    "author": "Suman Rao",
+    "category": "Weather"
+  },
+  {
+    "id": "8",
+    "title": "Tech: Local startup secures Series A funding",
+    "summary": "A fintech startup announced a successful Series A round to expand its operations.",
+    "content": "Full article content: The startup will use funds to scale its product and hire talent...",
+    "image": "/images/startup-hub.svg",
+    "publishedAt": "2025-11-15T11:20:00.000Z",
+    "author": "Ritu Patel",
+    "category": "Technology"
+  },
+  {
+    "id": "9",
+    "title": "Culture: Museum reopens after renovation",
+    "summary": "The city museum reopens to the public with interactive exhibits and extended hours.",
+    "content": "Full article content: Curators have redesigned galleries to improve visitor engagement...",
+    "image": "/images/museum-gallery.svg",
+    "publishedAt": "2025-11-14T14:00:00.000Z",
+    "author": "Anil Kumar",
+    "category": "Culture"
+  },
+  {
+    "id": "10",
+    "title": "Opinion: The future of urban transport",
+    "summary": "An editorial exploring sustainable mobility and the role of policy in shaping cities.",
+    "content": "Full article content: Investment in public transport and active mobility are key...",
+    "image": "/images/metro.svg",
+    "publishedAt": "2025-11-13T10:00:00.000Z",
+    "author": "Editorial Team",
+    "category": "Opinion"
+  },
+  {
+    "id": "11",
+    "title": "Science: Breakthrough in renewable energy storage",
+    "summary": "Researchers announced a new battery technology that could change energy grids.",
+    "content": "Full article content: The prototype shows improved lifecycle and efficiency...",
+    "image": "/images/energy.svg",
+    "publishedAt": "2025-11-12T09:30:00.000Z",
+    "author": "Dr. Aisha Khan",
+    "category": "Science"
+  },
+  {
+    "id": "12",
+    "title": "Travel: Top winter destinations to visit this year",
+    "summary": "A curated list of scenic winter destinations for short getaways.",
+    "content": "Full article content: From hill stations to coastal towns, here are top picks...",
+    "image": "/images/topic-travel.svg",
+    "publishedAt": "2025-11-11T08:15:00.000Z",
+    "author": "Sonal Mehta",
+    "category": "Travel"
+  }
+]

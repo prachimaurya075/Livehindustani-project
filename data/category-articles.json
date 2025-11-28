@@ -1,0 +1,162 @@
+{
+  "india": [
+    {
+      "id": "in-1",
+      "title": "Delhi Metro expansion approved for Q4 2025",
+      "summary": "The metro authority approved a new line connecting suburbs to the city center, cutting commute times by 30%.",
+      "content": "Full article: The Delhi Metro authority has given the green light to a massive expansion project that will connect underserved suburban areas...",
+      "category": "India",
+      "image": "/images/metro.svg",
+      "author": "Neha Verma",
+      "publishedAt": "2025-11-22T10:15:00Z"
+    },
+    {
+      "id": "in-2",
+      "title": "Monsoon season brings relief to drought-hit regions",
+      "summary": "Heavy rains reported across northern states, providing much-needed relief to farmers and reservoirs.",
+      "content": "Full article: After months of drought conditions, monsoon rains have finally arrived in northern India...",
+      "category": "India",
+      "image": "/images/weather.svg",
+      "author": "Suman Rao",
+      "publishedAt": "2025-11-21T08:30:00Z"
+    },
+    {
+      "id": "in-3",
+      "title": "New education policy rolled out in schools nationwide",
+      "summary": "Schools introduce digital learning platforms and updated curriculum across the country.",
+      "content": "Full article: Education boards have launched a nationwide initiative to digitize classrooms...",
+      "category": "India",
+      "image": "/images/topic-tech.svg",
+      "author": "Meera Joshi",
+      "publishedAt": "2025-11-20T14:45:00Z"
+    }
+  ],
+  "world": [
+    {
+      "id": "wr-1",
+      "title": "Global climate summit reaches historic agreement",
+      "summary": "Nations agree on ambitious targets for carbon emissions reduction by 2030.",
+      "content": "Full article: In a landmark decision, world leaders have committed to reducing emissions...",
+      "category": "World",
+      "image": "/images/energy.svg",
+      "author": "James Smith",
+      "publishedAt": "2025-11-22T09:00:00Z"
+    },
+    {
+      "id": "wr-2",
+      "title": "Tech giant opens innovation hub in Europe",
+      "summary": "Major technology company announces €500M investment in European research center.",
+      "content": "Full article: A leading tech company has announced plans to establish a major research facility...",
+      "category": "World",
+      "image": "/images/startup-hub.svg",
+      "author": "Emma Wilson",
+      "publishedAt": "2025-11-21T11:20:00Z"
+    },
+    {
+      "id": "wr-3",
+      "title": "International space mission launches successfully",
+      "summary": "Joint mission by multiple nations begins its journey to explore distant planets.",
+      "content": "Full article: A historic collaborative space mission launched today from the Kennedy Space Center...",
+      "category": "World",
+      "image": "/images/topic-tech.svg",
+      "author": "Dr. Robert Jones",
+      "publishedAt": "2025-11-20T16:00:00Z"
+    }
+  ],
+  "business": [
+    {
+      "id": "bs-1",
+      "title": "Stock market hits all-time high amid positive outlook",
+      "summary": "Market indices surge on back of strong corporate earnings and economic growth signals.",
+      "content": "Full article: Stock markets have reached record highs as investors gain confidence...",
+      "category": "Business",
+      "image": "/images/market.svg",
+      "author": "Arjun Rao",
+      "publishedAt": "2025-11-22T07:30:00Z"
+    },
+    {
+      "id": "bs-2",
+      "title": "Startup secures Series B funding of $50 million",
+      "summary": "Fintech company announces major funding round to expand operations globally.",
+      "content": "Full article: A rapidly growing fintech startup has secured significant funding...",
+      "category": "Business",
+      "image": "/images/startup-hub.svg",
+      "author": "Ritu Patel",
+      "publishedAt": "2025-11-21T10:00:00Z"
+    },
+    {
+      "id": "bs-3",
+      "title": "Major merger announced between two retail giants",
+      "summary": "Two of the country's largest retail chains merge to create a mega-corporation.",
+      "content": "Full article: In a surprising move, two major retail companies have announced a merger...",
+      "category": "Business",
+      "image": "/images/market.svg",
+      "author": "Vikram Singh",
+      "publishedAt": "2025-11-20T12:15:00Z"
+    }
+  ],
+  "sports": [
+    {
+      "id": "sp-1",
+      "title": "Cricket: India qualifies for World Cup finals",
+      "summary": "Team India secures spot in the finals after thrilling semi-final victory.",
+      "content": "Full article: In an electrifying semi-final match, India defeated the opposition...",
+      "category": "Sports",
+      "image": "/images/category-sports.svg",
+      "author": "Karan Singh",
+      "publishedAt": "2025-11-22T20:30:00Z"
+    },
+    {
+      "id": "sp-2",
+      "title": "Football: New stadium opens with record attendance",
+      "summary": "State-of-the-art stadium inaugurated with packed stands for opening match.",
+      "content": "Full article: A brand new football stadium with cutting-edge facilities opened today...",
+      "category": "Sports",
+      "image": "/images/category-sports.svg",
+      "author": "Rajesh Kumar",
+      "publishedAt": "2025-11-21T19:00:00Z"
+    },
+    {
+      "id": "sp-3",
+      "title": "Tennis: Young athlete wins international championship",
+      "summary": "Rising star claims first major title in stunning tournament performance.",
+      "content": "Full article: A promising young tennis player has claimed their first international title...",
+      "category": "Sports",
+      "image": "/images/category-sports.svg",
+      "author": "Priya Sharma",
+      "publishedAt": "2025-11-20T18:45:00Z"
+    }
+  ],
+  "entertainment": [
+    {
+      "id": "en-1",
+      "title": "Blockbuster film breaks box office records",
+      "summary": "New movie becomes the highest-grossing film in the country's cinema history.",
+      "content": "Full article: A major film production has shattered box office records...",
+      "category": "Entertainment",
+      "image": "/images/festival-celebration.svg",
+      "author": "Anjali Desai",
+      "publishedAt": "2025-11-22T15:20:00Z"
+    },
+    {
+      "id": "en-2",
+      "title": "Music festival announces star-studded lineup",
+      "summary": "Major music event features performances from international and local artists.",
+      "content": "Full article: The annual music festival has announced an exciting lineup...",
+      "category": "Entertainment",
+      "image": "/images/festival-celebration.svg",
+      "author": "Sonal Mehta",
+      "publishedAt": "2025-11-21T13:00:00Z"
+    },
+    {
+      "id": "en-3",
+      "title": "Celebrity couple announces joint venture in streaming",
+      "summary": "Two entertainment stars launch their own content production company.",
+      "content": "Full article: A famous entertainment couple has announced plans to start...",
+      "category": "Entertainment",
+      "image": "/images/museum-gallery.svg",
+      "author": "Vikram Chopra",
+      "publishedAt": "2025-11-20T11:30:00Z"
+    }
+  ]
+}

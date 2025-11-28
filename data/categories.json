@@ -1,0 +1,32 @@
+[
+  {
+    "id": "india",
+    "name": "India",
+    "description": "Latest news from across India",
+    "icon": "/images/category-india.svg"
+  },
+  {
+    "id": "world",
+    "name": "World",
+    "description": "International news and updates",
+    "icon": "/images/category-world.svg"
+  },
+  {
+    "id": "business",
+    "name": "Business",
+    "description": "Business, economy and markets",
+    "icon": "/images/category-business.svg"
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "description": "Sports news and updates",
+    "icon": "/images/category-sports.svg"
+  },
+  {
+    "id": "entertainment",
+    "name": "Entertainment",
+    "description": "Entertainment and celebrity news",
+    "icon": "/images/category-entertainment.svg"
+  }
+]

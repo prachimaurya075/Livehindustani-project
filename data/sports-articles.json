@@ -1,0 +1,181 @@
+{
+  "cricket": [
+    {
+      "id": "sp-cricket-1",
+      "title": "India qualifies for World Cup finals after thrilling semi-final",
+      "summary": "Team India secures historic spot in the finals after defeating Pakistan in a nail-biting encounter.",
+      "content": "In an electrifying semi-final match, India defeated the opposition with a spectacular performance. The team's batting lineup delivered extraordinary performances...",
+      "image": "/images/category-sports.svg",
+      "author": "Karan Singh",
+      "category": "Cricket",
+      "subcategory": "International",
+      "publishedAt": "2025-11-22T20:30:00Z",
+      "views": "245.6K",
+      "likes": "12.3K"
+    },
+    {
+      "id": "sp-cricket-2",
+      "title": "Virat Kohli scores 71st international century",
+      "summary": "Legendary batsman Virat Kohli achieves milestone century in ODI match against Sri Lanka.",
+      "content": "In a dominant display, Virat Kohli scored his 71st international century, breaking multiple records...",
+      "image": "/images/category-sports.svg",
+      "author": "Karan Singh",
+      "category": "Cricket",
+      "subcategory": "International",
+      "publishedAt": "2025-11-21T18:45:00Z",
+      "views": "189.2K",
+      "likes": "8.7K"
+    },
+    {
+      "id": "sp-cricket-3",
+      "title": "IPL 2025: Mumbai Indians secure playoff berth",
+      "summary": "Mumbai Indians clinch playoff position after beating Rajasthan Royals in thrilling encounter.",
+      "content": "In a high-scoring match, Mumbai Indians defeated Rajasthan Royals in a thrilling contest...",
+      "image": "/images/category-sports.svg",
+      "author": "Karan Singh",
+      "category": "Cricket",
+      "subcategory": "Domestic",
+      "publishedAt": "2025-11-20T22:15:00Z",
+      "views": "156.8K",
+      "likes": "7.2K"
+    }
+  ],
+  "football": [
+    {
+      "id": "sp-football-1",
+      "title": "New state-of-the-art football stadium opens with record attendance",
+      "summary": "Cutting-edge stadium inaugurated with 80,000 fans witnessing inaugural match.",
+      "content": "A brand new football stadium with world-class facilities opened today with unprecedented attendance...",
+      "image": "/images/category-sports.svg",
+      "author": "Rajesh Kumar",
+      "category": "Football",
+      "subcategory": "Domestic",
+      "publishedAt": "2025-11-21T19:00:00Z",
+      "views": "127.4K",
+      "likes": "5.9K"
+    },
+    {
+      "id": "sp-football-2",
+      "title": "India advances to AFC Asian Cup semi-finals",
+      "summary": "National football team books semi-final berth after penalty shootout victory.",
+      "content": "In a dramatic penalty shootout, India's national football team secured their place in the semi-finals...",
+      "image": "/images/category-sports.svg",
+      "author": "Rajesh Kumar",
+      "category": "Football",
+      "subcategory": "International",
+      "publishedAt": "2025-11-19T20:30:00Z",
+      "views": "198.6K",
+      "likes": "9.4K"
+    },
+    {
+      "id": "sp-football-3",
+      "title": "Star player signs record-breaking contract",
+      "summary": "International football star signs multi-year deal worth $50 million.",
+      "content": "A prominent international football player has signed a record-breaking contract extension...",
+      "image": "/images/category-sports.svg",
+      "author": "Rajesh Kumar",
+      "category": "Football",
+      "subcategory": "Transfers",
+      "publishedAt": "2025-11-18T16:45:00Z",
+      "views": "142.3K",
+      "likes": "6.8K"
+    }
+  ],
+  "tennis": [
+    {
+      "id": "sp-tennis-1",
+      "title": "Young Indian tennis star wins international championship",
+      "summary": "Rising talent claims first major international title in stunning tournament performance.",
+      "content": "A promising young tennis player has claimed their first international title after an impressive tournament run...",
+      "image": "/images/category-sports.svg",
+      "author": "Priya Sharma",
+      "category": "Tennis",
+      "subcategory": "International",
+      "publishedAt": "2025-11-20T18:45:00Z",
+      "views": "94.7K",
+      "likes": "4.2K"
+    },
+    {
+      "id": "sp-tennis-2",
+      "title": "Grand Slam qualifiers announced for next season",
+      "summary": "Indian tennis players secure spots in major Grand Slam tournaments.",
+      "content": "Several Indian tennis players have successfully qualified for the upcoming Grand Slam tournaments...",
+      "image": "/images/category-sports.svg",
+      "author": "Priya Sharma",
+      "category": "Tennis",
+      "subcategory": "International",
+      "publishedAt": "2025-11-19T14:20:00Z",
+      "views": "71.5K",
+      "likes": "3.1K"
+    },
+    {
+      "id": "sp-tennis-3",
+      "title": "National tennis championships conclude with exciting finals",
+      "summary": "Competitive national tournament delivers thrilling matches and emerging talents.",
+      "content": "The national tennis championships concluded with several exciting finals that showcased emerging talent...",
+      "image": "/images/category-sports.svg",
+      "author": "Priya Sharma",
+      "category": "Tennis",
+      "subcategory": "Domestic",
+      "publishedAt": "2025-11-17T15:30:00Z",
+      "views": "63.2K",
+      "likes": "2.8K"
+    }
+  ],
+  "badminton": [
+    {
+      "id": "sp-badminton-1",
+      "title": "Saina Nehwal returns to competitive play after recovery",
+      "summary": "Former champion makes comeback after long injury layoff.",
+      "content": "Star badminton player Saina Nehwal has made her competitive return after recovering from injury...",
+      "image": "/images/category-sports.svg",
+      "author": "Anjali Desai",
+      "category": "Badminton",
+      "subcategory": "International",
+      "publishedAt": "2025-11-21T17:00:00Z",
+      "views": "118.9K",
+      "likes": "5.6K"
+    },
+    {
+      "id": "sp-badminton-2",
+      "title": "Indian mixed doubles pair wins international tournament",
+      "summary": "Dynamic duo defeats top-seeded opponents to claim title.",
+      "content": "An Indian mixed doubles badminton pair has won an international tournament after defeating top seeds...",
+      "image": "/images/category-sports.svg",
+      "author": "Anjali Desai",
+      "category": "Badminton",
+      "subcategory": "International",
+      "publishedAt": "2025-11-19T13:15:00Z",
+      "views": "87.3K",
+      "likes": "4.1K"
+    }
+  ],
+  "hockey": [
+    {
+      "id": "sp-hockey-1",
+      "title": "India men's hockey team defeats Australia in World Cup",
+      "summary": "Historic victory sets up challenging semi-final encounter.",
+      "content": "India's men's hockey team secured a stunning victory against Australia in the World Cup...",
+      "image": "/images/category-sports.svg",
+      "author": "Vikram Chopra",
+      "category": "Hockey",
+      "subcategory": "International",
+      "publishedAt": "2025-11-22T19:30:00Z",
+      "views": "156.8K",
+      "likes": "7.4K"
+    },
+    {
+      "id": "sp-hockey-2",
+      "title": "Women's hockey team completes successful tour",
+      "summary": "National women's team wins all matches during international tour.",
+      "content": "India's women's hockey team completed their international tour undefeated after winning all matches...",
+      "image": "/images/category-sports.svg",
+      "author": "Vikram Chopra",
+      "category": "Hockey",
+      "subcategory": "International",
+      "publishedAt": "2025-11-20T16:45:00Z",
+      "views": "104.2K",
+      "likes": "4.8K"
+    }
+  ]
+}
